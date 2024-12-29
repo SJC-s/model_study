@@ -45,8 +45,10 @@ face_feat2 = np.array(face_feat2, dtype=np.float32)
 sims = np.dot(face_feat1, face_feat2.T) # 코사인 유사도 계산
 print(sims) # sims 값 : 0 ~ 0.4 다른사람, 0.4 ~ 같은사람의 유사, 1 같은 사진
 
+# STEP 3
 ## img = ins_get_image('t1')
 
+# STEP 4
 ## faces = app.get(img) # 이때 임베딩 결과가 들어온다
 
 # STEP 5-1 : Save result image
