@@ -6,7 +6,7 @@ import easyocr
 reader = easyocr.Reader(['ko','en']) # this needs to run only once to load the model into memory
 
 # STEP 3 : load data
-data = 'ddd.png'
+data = 'charger.jpg'
 
 # STEP 4 : inference
 result = reader.readtext(data, detail=0)
