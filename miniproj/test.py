@@ -17,7 +17,7 @@ def extract_text_from_image(image_path):
         generated_ids = model.generate(pixel_values)
     
     # 생성된 텍스트 디코딩
-    generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
+    generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
     return generated_text
 
 # 텍스트에서 전력 정보를 추출하는 함수
@@ -52,11 +52,13 @@ image_path_2 = "dock.png"   # 기기 정보가 담긴 이미지 경로
 
 # 첫 번째 이미지에서 텍스트 추출
 text_1 = extract_text_from_image(image_path_1)
-print("text1 : "  + text_1)
+print("text1 : ")
+print(text_1)
 
 # 두 번째 이미지에서 텍스트 추출
 text_2 = extract_text_from_image(image_path_2)
-print("text2 : "  + text_2)
+print("text2 : ")
+print(text_2)
 
 # 전력 비교 결과 출력
 #result = compare_power(text_1, text_2)

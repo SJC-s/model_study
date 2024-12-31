@@ -1,0 +1,1058 @@
+2024-12-31 12:29:30,077 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:29:30,078 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:29:31,997 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:29:32,160 - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2024-12-31 12:29:35,772 - INFO - Download complete.
+2024-12-31 12:29:37,549 - INFO - OCR 모델 로드 완료
+2024-12-31 12:29:37,550 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:29:37,550 - INFO - 이미지 처리 중: img\charger.jpg
+2024-12-31 12:29:37,550 - ERROR - 이미지를 찾을 수 없음: img\charger.jpg
+2024-12-31 12:29:37,551 - INFO - 충전기 텍스트: 
+2024-12-31 12:29:37,551 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:29:37,551 - INFO - 이미지 처리 중: img\ccc.png
+2024-12-31 12:29:37,551 - ERROR - 이미지를 찾을 수 없음: img\ccc.png
+2024-12-31 12:29:37,552 - INFO - 기기 텍스트: 
+2024-12-31 12:29:37,552 - INFO - 전압과 전류 추출 중
+2024-12-31 12:29:37,552 - DEBUG - 분석할 텍스트: 
+2024-12-31 12:29:37,554 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:29:37,554 - INFO - 전압과 전류 추출 중
+2024-12-31 12:29:37,554 - DEBUG - 분석할 텍스트: 
+2024-12-31 12:29:37,554 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:29:37,554 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:29:37,555 - INFO - 충전기 원본 텍스트: 
+2024-12-31 12:29:37,555 - INFO - 기기 원본 텍스트: 
+2024-12-31 12:29:37,555 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:29:37,555 - INFO - 기기: NoneV, NoneA
+2024-12-31 12:29:37,555 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:30:23,877 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:30:23,878 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:30:25,812 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:30:27,751 - INFO - OCR 모델 로드 완료
+2024-12-31 12:30:27,752 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:30:27,752 - INFO - 이미지 처리 중: img\charger.jpg
+2024-12-31 12:30:27,752 - ERROR - 이미지를 찾을 수 없음: img\charger.jpg
+2024-12-31 12:30:27,752 - INFO - 충전기 텍스트: 
+2024-12-31 12:30:27,753 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:30:27,753 - INFO - 이미지 처리 중: img\ccc.png
+2024-12-31 12:30:27,753 - ERROR - 이미지를 찾을 수 없음: img\ccc.png
+2024-12-31 12:30:27,753 - INFO - 기기 텍스트: 
+2024-12-31 12:30:27,753 - INFO - 전압과 전류 추출 중
+2024-12-31 12:30:27,753 - DEBUG - 분석할 텍스트: 
+2024-12-31 12:30:27,756 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:30:27,756 - INFO - 전압과 전류 추출 중
+2024-12-31 12:30:27,756 - DEBUG - 분석할 텍스트: 
+2024-12-31 12:30:27,756 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:30:27,756 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:30:27,757 - INFO - 충전기 원본 텍스트: 
+2024-12-31 12:30:27,757 - INFO - 기기 원본 텍스트: 
+2024-12-31 12:30:27,757 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:30:27,757 - INFO - 기기: NoneV, NoneA
+2024-12-31 12:30:27,757 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:32:06,412 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:32:06,413 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:32:08,297 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:32:10,237 - INFO - OCR 모델 로드 완료
+2024-12-31 12:32:10,237 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:32:10,237 - INFO - 이미지 처리 중: charger.jpg
+2024-12-31 12:32:10,238 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:32:10,261 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:32:10,261 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:32:10,261 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:32:10,261 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-12-31 12:32:10,262 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:32:10,262 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00f'
+2024-12-31 12:32:13,046 - INFO - 한글+영어 인식 결과: 전기용품 안전관리번에 의한 품질표시 제표명 직류전원장치 도밀명:CTC-SS210 최저소비 표옮기준 정격입력 AC 220V~,6OHz,03A 만족제품 정작 리DC5V:24 인공번호 SU10639-16005 MSIP-REM-1G9-CTC-SS240 제조사 SHENZHEN RUIYU TECHNOLOGY CO,_TD 제조국:CANA 제조년월: 2018.01 NS연락처:032-683-1135
+2024-12-31 12:32:13,047 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:32:13,058 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:32:13,058 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:32:13,058 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:32:13,058 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-12-31 12:32:13,059 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:32:13,059 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00f'
+2024-12-31 12:32:15,849 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:32:15,850 - INFO - 이미지 처리 중: ccc.png
+2024-12-31 12:32:15,850 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:32:15,856 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:32:15,857 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:32:15,857 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:32:15,857 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:32:15,857 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:32:15,858 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:32:15,864 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:32:17,554 - INFO - 한글+영어 인식 결과: mnBC 지금은라디오시대 대한의료사회복지사현회 사랑이열매 사회복지공동모금회 anuclear 제풍명: 전지 전지의 종류 리늄이온 2차전지 모델명: iGPB-HOT3 전지형식 2ICR18/65-2 정격입력: DC SV 2A 정격용량 : 5,OOOrnAh 정격출력: DC 5V 2A 제조국가 : CHINA 수일 처 : (주)우영커유니켜이선 제조년원 : 2024.77 7 즈자: SHENZHEN HONG YUTAI ELECTRCNIC CO,LTD ;,S 센터 : 070-4323-1574 httpllwA.anyclear.coh<
+2024-12-31 12:32:17,555 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:32:17,562 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:32:17,562 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:32:17,562 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:32:17,563 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:32:17,563 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:32:17,563 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:32:17,570 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:32:19,688 - INFO - 전압과 전류 추출 중
+2024-12-31 12:32:19,690 - DEBUG - 매칭된 전압 패턴: (\d+\.?\d*)\s*V\s*[-~]\s*
+2024-12-31 12:32:19,690 - DEBUG - 추출된 전압값: 220.0V
+2024-12-31 12:32:19,692 - DEBUG - 매칭된 전류 패턴: (\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:32:19,692 - DEBUG - 추출된 전류값: 3.0A
+2024-12-31 12:32:19,692 - INFO - 추출된 값 - 전압: 220.0V, 전류: 3.0A
+2024-12-31 12:32:19,692 - INFO - 전압과 전류 추출 중
+2024-12-31 12:32:19,695 - DEBUG - 매칭된 전압 패턴: (\d+\.?\d*)\s*[Vv]
+2024-12-31 12:32:19,696 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:32:19,696 - DEBUG - 매칭된 전류 패턴: (\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:32:19,696 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:32:19,696 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 12:32:19,696 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:32:19,702 - INFO - 충전기: 220.0V, 3.0A
+2024-12-31 12:32:19,702 - INFO - 기기: 5.0V, 2.0A
+2024-12-31 12:32:19,702 - INFO - 호환성: 부적합 (전압 불일치)
+2024-12-31 12:37:58,123 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:37:58,124 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:38:00,079 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:38:02,091 - INFO - OCR 모델 로드 완료
+2024-12-31 12:38:02,091 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:38:02,091 - INFO - 이미지 처리 중: charger.jpg
+2024-12-31 12:38:02,092 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:38:02,117 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:38:02,117 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:38:02,117 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:38:02,118 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-12-31 12:38:02,118 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:38:02,118 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00f'
+2024-12-31 12:38:05,035 - INFO - 한글+영어 인식 결과: 전기용품 안전관리번에 의한 품질표시 제표명 직류전원장치 도밀명:CTC-SS210 최저소비 표옮기준 정격입력 AC 220V~,6OHz,03A 만족제품 정작 리DC5V:24 인공번호 SU10639-16005 MSIP-REM-1G9-CTC-SS240 제조사 SHENZHEN RUIYU TECHNOLOGY CO,_TD 제조국:CANA 제조년월: 2018.01 NS연락처:032-683-1135
+2024-12-31 12:38:05,035 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:38:05,047 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:38:05,048 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:38:05,048 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+2024-12-31 12:38:05,048 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+2024-12-31 12:38:05,048 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+2024-12-31 12:38:05,049 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00f'
+2024-12-31 12:38:08,098 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:38:08,099 - INFO - 이미지 처리 중: ccc.png
+2024-12-31 12:38:08,099 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:38:08,106 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:38:08,107 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:38:08,107 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:38:08,107 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:38:08,107 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:38:08,108 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:38:08,115 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:38:09,830 - INFO - 한글+영어 인식 결과: mnBC 지금은라디오시대 대한의료사회복지사현회 사랑이열매 사회복지공동모금회 anuclear 제풍명: 전지 전지의 종류 리늄이온 2차전지 모델명: iGPB-HOT3 전지형식 2ICR18/65-2 정격입력: DC SV 2A 정격용량 : 5,OOOrnAh 정격출력: DC 5V 2A 제조국가 : CHINA 수일 처 : (주)우영커유니켜이선 제조년원 : 2024.77 7 즈자: SHENZHEN HONG YUTAI ELECTRCNIC CO,LTD ;,S 센터 : 070-4323-1574 httpllwA.anyclear.coh<
+2024-12-31 12:38:09,831 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:38:09,837 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:38:09,837 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:38:09,838 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:38:09,838 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:38:09,838 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-31 12:38:09,838 - DEBUG - STREAM b'IDAT' 54 8192
+2024-12-31 12:38:09,844 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:38:11,966 - INFO - 전압과 전류 추출 중
+2024-12-31 12:38:11,969 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:38:11,969 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:38:11,969 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:38:11,970 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:38:11,970 - DEBUG - 추출된 전류값: 3.0A
+2024-12-31 12:38:11,970 - INFO - 추출된 값 - 전압: 5.0V, 전류: 3.0A
+2024-12-31 12:38:11,971 - INFO - 전압과 전류 추출 중
+2024-12-31 12:38:11,973 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:38:11,973 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:38:11,974 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:38:11,974 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:38:11,974 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:38:11,974 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 12:38:11,974 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:38:11,979 - INFO - 충전기: 5.0V, 3.0A
+2024-12-31 12:38:11,980 - INFO - 기기: 5.0V, 2.0A
+2024-12-31 12:38:11,980 - INFO - 호환성: 적합
+2024-12-31 12:46:20,181 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:46:20,181 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:46:22,097 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:46:24,062 - INFO - OCR 모델 로드 완료
+2024-12-31 12:46:24,343 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:46:24,343 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:46:24,343 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:46:34,885 - INFO - 한글+영어 인식 결과: 뼈 봄 - 8 묶품 1 뜻 8 i 온 용용 품 품 름 다 물 음 영 @ 품 8 그록 ';
+2024-12-31 12:46:34,886 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:46:45,232 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:46:45,232 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:46:45,232 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:46:45,244 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:46:45,244 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:46:45,244 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:46:45,244 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:46:45,254 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:46:51,415 - INFO - 한글+영어 인식 결과: I 핸 o D 0a " 도 물 CP @ 1 1 품 T 별 중 2 터 호 품 ( 불무 #출 물다 틈 4 : . 물 훌  1 ]무 {동 8 분물 #통 : ? 출
+2024-12-31 12:46:51,416 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:46:51,427 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:46:51,427 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:46:51,427 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:46:51,428 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:46:51,437 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:46:57,657 - INFO - 전압과 전류 추출 중
+2024-12-31 12:46:57,659 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:46:57,661 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:46:57,661 - INFO - 전압과 전류 추출 중
+2024-12-31 12:46:57,663 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:46:57,664 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:46:57,664 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:46:57,668 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:46:57,668 - INFO - 기기: NoneV, NoneA
+2024-12-31 12:46:57,668 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:48:18,142 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:48:18,142 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:48:20,068 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:48:22,014 - INFO - OCR 모델 로드 완료
+2024-12-31 12:48:22,774 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:48:22,775 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:48:22,775 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:48:32,335 - INFO - 한글+영어 인식 결과: { 얘 ; 8 " 댐 F 출% 협름 으 @혀 슬용 벼 봄 풀 # 물 응 $ 8 a % J 8 푹 흙 틈
+2024-12-31 12:48:32,336 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:48:42,866 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:48:42,866 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:48:42,867 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:48:42,878 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:48:42,878 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:48:42,878 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:48:42,878 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:48:42,888 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:48:48,877 - INFO - 한글+영어 인식 결과: mmIIIE 지금은라디오시대 대한의료사회복지사협회 사랑의-매 새멘녁시공83러9 anuclear 헌감입: 전지 전지여 감# 리5어온 2권씨 도권명 : GPg -HorJ 논기생 색; 2CRIe5? #리림력 [ 5Y간 '리용림 . S0,hIVii "리울리; DC SV 2, 벼 소국거" CHWA 김어 (4우영거무니머어신 # ? 년갑. 224 11 -라 SENZ EAIHONS ,J 1e/ELECIROY_CJ LIU 070-4323-1574 niplrrftty Arichk '  오대
+2024-12-31 12:48:48,878 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:48:48,889 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:48:48,889 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:48:48,889 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:48:48,889 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:48:48,898 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:48:55,028 - INFO - 전압과 전류 추출 중
+2024-12-31 12:48:55,030 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:48:55,031 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:48:55,032 - INFO - 전압과 전류 추출 중
+2024-12-31 12:48:55,035 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:48:55,050 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:48:55,050 - DEBUG - 추출된 전류값: 9.0A
+2024-12-31 12:48:55,050 - INFO - 추출된 값 - 전압: NoneV, 전류: 9.0A
+2024-12-31 12:48:55,050 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:48:55,055 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:48:55,055 - INFO - 기기: NoneV, 9.0A
+2024-12-31 12:48:55,055 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:54:33,301 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:54:33,302 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:54:35,196 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:54:37,150 - INFO - OCR 모델 로드 완료
+2024-12-31 12:54:37,867 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:54:37,867 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:54:37,867 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:54:40,604 - INFO - 한글+영어 인식 결과: j 통 l#ls W흘 8 $ 품 i 7 봄 풀 # ) 8 물 응 @좀? 8 ;
+2024-12-31 12:54:40,605 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:54:43,402 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:54:43,403 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:54:43,403 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:54:43,412 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:54:43,412 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:54:43,412 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:54:43,412 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:54:43,415 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:54:45,437 - INFO - 한글+영어 인식 결과: mmIIE 지금은라디오시대 대한의료사회복지사협회 사랑의일매 시h보시공8439 anucllear :감업: 전지 전기외 꿈류 리3어온 2권시 도고명: CPa HorJ 년기생 식 2CRI/u5? }{김벼 US"간 '기g림  S0JNIVsi :"울리 DC SV Z 벼 소국기" CHWA 림서 (41R영거무나머어신 며쪽런] H23" 프라 SENZHEAHONG ,J 1e/ELECIRUXY_CJ LTU 오다 010-4323.1574 Irrttty {포Ch?a' ; 74
+2024-12-31 12:54:45,437 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:54:45,441 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:54:45,441 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:54:45,442 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:54:45,442 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:54:45,445 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:54:47,682 - INFO - 전압과 전류 추출 중
+2024-12-31 12:54:47,683 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:54:47,685 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:54:47,685 - INFO - 전압과 전류 추출 중
+2024-12-31 12:54:47,688 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:54:47,703 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:54:47,703 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:54:47,707 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:54:47,707 - INFO - 기기: NoneV, NoneA
+2024-12-31 12:54:47,707 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:55:33,378 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:55:33,379 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:55:35,271 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:55:37,219 - INFO - OCR 모델 로드 완료
+2024-12-31 12:55:37,945 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:55:37,946 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:55:37,946 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:55:41,173 - INFO - 한글+영어 인식 결과: ~ ; 88 안전관aU0 의인 손직료 ` <8건 집루-전요적W; =3명;CTC-SS2I0 이저스로 C; "구 정끄입리 AC 220V-,6OH2.03/ 민드; 5 정격s DC 51 2i쇼 인J "' SjIQBS 'CiC주 VSi? .구드{. ;G으스:C-SS2AC x즈 ^ SoEN? (EA RUI'U ZINO.OGY SC, 06 > 스스로 C nk R조: 터 ;n1! 0) ^ SQy'%,(32 502  '33
+2024-12-31 12:55:41,174 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:55:44,410 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:55:44,410 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:55:44,411 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:55:44,419 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:55:44,420 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:55:44,420 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:55:44,420 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:55:44,423 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:55:46,331 - INFO - 한글+영어 인식 결과: [IBC 지금은라디오시대 대한의료사회복지사협회 사랑의일마 사회복 지공동모a9 anuclleaf 체5영: 전지 전시의 종류 리늄이온 2치진사 도결텅 : iGPa-HOrJ 선지생식 2ICR13/55-7 ;크심력: DC SV2 젖격용량 . 5,CCUiIstI ;'{리: OC 5V 2K 세소국가 " CHIIA 실서 (주우영커무니테이선 재조년긴 2024 1 =; SHENZHEHI HONG ;J 1l ELECTRCHIICC(J,LTU 070-4323-1974 h8p I/CIAY aricleat 오다
+2024-12-31 12:55:46,332 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:55:46,336 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:55:46,336 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:55:46,337 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:55:46,337 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:55:46,340 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:55:48,596 - INFO - 전압과 전류 추출 중
+2024-12-31 12:55:48,599 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:55:48,600 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:55:48,600 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:55:48,600 - INFO - 추출된 값 - 전압: NoneV, 전류: 2.0A
+2024-12-31 12:55:48,600 - INFO - 전압과 전류 추출 중
+2024-12-31 12:55:48,603 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:55:48,603 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:55:48,603 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:55:48,603 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:55:48,603 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:55:48,603 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 12:55:48,604 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:55:48,608 - INFO - 충전기: NoneV, 2.0A
+2024-12-31 12:55:48,608 - INFO - 기기: 5.0V, 2.0A
+2024-12-31 12:55:48,608 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:56:17,980 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:56:17,980 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:56:19,878 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:56:21,816 - INFO - OCR 모델 로드 완료
+2024-12-31 12:56:22,548 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:56:22,548 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:56:22,548 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:56:25,720 - INFO - 한글+영어 인식 결과: ? ;;용젓 인전관화(야 의요 손'표 ^ {통면 최르-전롭장듯; =레명;CTC-SS2 {0 시저스트 c; ' 그 장6입리 AC 220V-,6042.03/ 민주세로 청끄6리D 51' 2iit 고중딴 &.SjIGaS 'Cic? MStP-국드;' G9L:C-SS24C X조 ^` S E;? {Ef RUI;U E--NU:OGY CC, 선소국 : C- !; X조;: & ;0}! 0} 쇼 S앉움'*;(32-582:'35
+2024-12-31 12:56:25,721 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:56:29,284 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:56:29,285 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:56:29,285 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:56:29,296 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:56:29,296 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:56:29,296 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:56:29,297 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:56:29,299 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:56:31,246 - INFO - 한글+영어 인식 결과: [mIIBO 지금은라디오시대 대한의로사회복지사렬회 사랑l열마 사회복전공동모금희 anucleaf 제 동명: 전지 전지의 종류 리늄이온 2치진시 도는명 : IGP3-HOT3 전 지 형신 21CR18/55-7 후 터실력: DC SV 2A 정격용량 5,UC(JrTIti # 릭론력: DC 5V 2A 제소국가 CHItA 실서   (주우영커무니테이선 게 조년권 2C24 11 =둑 SHENZHEIJ HONG 'J }41 ELECTRCIIIC_C'J 'E' 0j70-4323-1574 hiip l/iripy aryyclear ,LTU
+2024-12-31 12:56:31,247 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:56:31,250 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:56:31,250 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:56:31,251 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:56:31,251 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:56:31,253 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:56:33,467 - INFO - 전압과 전류 추출 중
+2024-12-31 12:56:33,470 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:56:33,480 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:56:33,481 - INFO - 전압과 전류 추출 중
+2024-12-31 12:56:33,483 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:56:33,484 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:56:33,484 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:56:33,484 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:56:33,484 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:56:33,484 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 12:56:33,484 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:56:33,489 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:56:33,489 - INFO - 기기: 5.0V, 2.0A
+2024-12-31 12:56:33,489 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:57:14,327 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:57:14,327 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:57:16,234 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:57:18,173 - INFO - OCR 모델 로드 완료
+2024-12-31 12:57:18,937 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:57:18,937 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:57:18,938 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:57:21,815 - INFO - 한글+영어 인식 결과: 전기용궁 인전관리V어 의인 묻점표시 제궁명 치류전원장히 도입명:CTC-SS2 10 히저스다 C 습 기즌 정격입런;AC 22oV~,6OHL,03K 민숙제5 텅주o리DC 3V 그리소 인혼면요:SJCa3 iCDC: MSIP-iEN-IGS-CTC-SS240 제i조스: :SAENZHEN RUIYU tESHNOLOGY CO, 쓰조로 :C-IINA X조난다' 2016 0} KS연어서;032-583-1135
+2024-12-31 12:57:21,816 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:57:24,749 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:57:24,749 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:57:24,750 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:57:24,760 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:57:24,760 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:57:24,760 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:57:24,760 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:57:24,763 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:57:26,626 - INFO - 한글+영어 인식 결과: [mIIBO 지금은라디오시대 대한의로사회복지사용회 사랑의얼마 사회복지공동모금희 anucleaf 제 동명: 전지 전지의 종류 리늄이온 2치진시 도별명 : IGPB-HOT3 전 지형신 21CR18/55-2 통끄심력: DC SV 2A 정 격용량 5,UCUJrTIAt) :러물력: DC 5V 2A 제조국가 CHI-A 길서 . (주우영커무니키이선 제 조년원 2024 11 =: SHENZHEI HONG iU 1Al ELECTRCtIIC C{J ;터 070-4323-1974 hitp;liwrirariyclcat ,LTU
+2024-12-31 12:57:26,627 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:57:26,630 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:57:26,630 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:57:26,630 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:57:26,631 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:57:26,633 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:57:28,800 - INFO - 전압과 전류 추출 중
+2024-12-31 12:57:28,802 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:57:28,802 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:57:28,803 - DEBUG - 추출된 전압값: 3.0V
+2024-12-31 12:57:28,814 - INFO - 추출된 값 - 전압: 3.0V, 전류: NoneA
+2024-12-31 12:57:28,814 - INFO - 전압과 전류 추출 중
+2024-12-31 12:57:28,817 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:57:28,817 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 12:57:28,817 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 12:57:28,817 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:57:28,818 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:57:28,818 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 12:57:28,818 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:57:28,823 - INFO - 충전기: 3.0V, NoneA
+2024-12-31 12:57:28,823 - INFO - 기기: 5.0V, 2.0A
+2024-12-31 12:57:28,823 - INFO - 호환성: 값 추출 실패
+2024-12-31 12:58:40,692 - INFO - TextExtractor 초기화 중...
+2024-12-31 12:58:40,693 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:58:42,588 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 12:58:44,547 - INFO - OCR 모델 로드 완료
+2024-12-31 12:58:45,291 - INFO - 충전기 이미지 처리 중...
+2024-12-31 12:58:45,291 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 12:58:45,291 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:58:48,502 - INFO - 한글+영어 인식 결과: 전기용웅 안전관리법이 의인 움U표시 #영 직류전스장지 =8CIC SS2IO 기서스다 "리 성스입9 AC 220V~ 6OHz03A 정SC5V 2 QSvo SJIO9 COC VSIPIAEV CCC SSzo 서X SEMENAOYUECANOOGYCO 계조국 C WA NrWODWVO NSeys 032 503 135
+2024-12-31 12:58:48,502 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:58:51,667 - INFO - 중국어+영어 인식 결과: &g OualUoolo且 Ug25283 538 CTC SS20 I今 J2 338JAC 220V~.6042,034 ARDCol 2L OaSIO @ USI AEV @SS2 /不 ^ SENZYEN RUIYU TCANOOGYCO 03~ CAN &OI O] MSQS^ 032 503-1'35
+2024-12-31 12:58:51,668 - INFO - 최종 결합된 텍스트: 전기용웅 안전관리법이 의인 움U표시 #영 직류전스장지 =8CIC SS2IO 기서스다 "리 성스입9 AC 220V~ 6OHz03A 정SC5V 2 QSvo SJIO9 COC VSIPIAEV CCC SSzo 서X SEMENAOYUECANOOGYCO 계조국 C WA NrWODWVO NSeys 032 503 135 &g OualUoolo且 Ug25283 538 CTC SS20 I今 J2 338JAC 220V~.6042,034 ARDCol 2L OaSIO @ USI AEV @SS2 /不 ^ SENZYEN RUIYU TCANOOGYCO 03~ CAN &OI O] MSQS^ 032 503-1'35
+2024-12-31 12:58:51,669 - INFO - 충전기 텍스트: 전기용웅 안전관리법이 의인 움U표시 #영 직류전스장지 =8CIC SS2IO 기서스다 "리 성스입9 AC 220V~ 6OHz03A 정SC5V 2 QSvo SJIO9 COC VSIPIAEV CCC SSzo 서X SEMENAOYUECANOOGYCO 계조국 C WA NrWODWVO NSeys 032 503 135 &g OualUoolo且 Ug25283 538 CTC SS20 I今 J2 338JAC 220V~.6042,034 ARDCol 2L OaSIO @ USI AEV @SS2 /不 ^ SENZYEN RUIYU TCANOOGYCO 03~ CAN &OI O] MSQS^ 032 503-1'35
+2024-12-31 12:58:51,669 - INFO - 기기 이미지 처리 중...
+2024-12-31 12:58:51,670 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 12:58:51,670 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 12:58:51,681 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:58:51,682 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:58:51,682 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:58:51,682 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:58:51,687 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:58:53,397 - INFO - 한글+영어 인식 결과: [미드 지금은라데오시대 대한의로사회복지사현회 사랑일 열매 사S-N3하무39 @nucleor 저품양 전지 전지의 종류 리듬이온 2전지 모른만 IIGP8-HO3 전지형식 . ZICRi8/65-2 정격입리 DCSV2A 정겨용령 : So0OmAh 정격듭리 DCSVDA 저조국기 : CHIINA 수입치 (주우영커유니키이선 제조년원 202411 저조자  SHIENHENHONG YUTAIEECIRONICCO,LID NS 신터 070-432-1574 httpllwanyclear ColkC 
+2024-12-31 12:58:53,398 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 12:58:53,404 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:58:53,404 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:58:53,404 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 12:58:53,404 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 12:58:53,410 - DEBUG - Error closing: Operation on closed image
+2024-12-31 12:58:55,744 - INFO - 전압과 전류 추출 중
+2024-12-31 12:58:55,744 - DEBUG - 분석할 텍스트: 전기용웅 안전관리법이 의인 움U표시 #영 직류전스장지 =8CIC SS2IO 기서스다 "리 성스입9 AC 220V~ 6OHz03A 정SC5V 2 QSvo SJIO9 COC VSIPIAEV CCC SSzo 서X SEMENAOYUECANOOGYCO 계조국 C WA NrWODWVO NSeys 032 503 135 &g OualUoolo且 Ug25283 538 CTC SS20 I今 J2 338JAC 220V~.6042,034 ARDCol 2L OaSIO @ USI AEV @SS2 /不 ^ SENZYEN RUIYU TCANOOGYCO 03~ CAN &OI O] MSQS^ 032 503-1'35
+2024-12-31 12:58:55,745 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:58:55,747 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 12:58:55,747 - INFO - 전압과 전류 추출 중
+2024-12-31 12:58:55,749 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 12:58:55,758 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 12:58:55,758 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 12:58:55,759 - INFO - 추출된 값 - 전압: NoneV, 전류: 2.0A
+2024-12-31 12:58:55,759 - INFO - 
+=== 분석 결과 ===
+2024-12-31 12:58:55,759 - INFO - 충전기 원본 텍스트: 전기용웅 안전관리법이 의인 움U표시 #영 직류전스장지 =8CIC SS2IO 기서스다 "리 성스입9 AC 220V~ 6OHz03A 정SC5V 2 QSvo SJIO9 COC VSIPIAEV CCC SSzo 서X SEMENAOYUECANOOGYCO 계조국 C WA NrWODWVO NSeys 032 503 135 &g OualUoolo且 Ug25283 538 CTC SS20 I今 J2 338JAC 220V~.6042,034 ARDCol 2L OaSIO @ USI AEV @SS2 /不 ^ SENZYEN RUIYU TCANOOGYCO 03~ CAN &OI O] MSQS^ 032 503-1'35
+2024-12-31 12:58:55,762 - INFO - 충전기: NoneV, NoneA
+2024-12-31 12:58:55,762 - INFO - 기기: NoneV, 2.0A
+2024-12-31 12:58:55,762 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:00:38,030 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:00:38,031 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:00:39,927 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:00:41,874 - INFO - OCR 모델 로드 완료
+2024-12-31 13:00:42,600 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:00:42,601 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:00:42,601 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:00:45,355 - INFO - 한글+영어 인식 결과: 전기용품 안전관리번에 의한 품질표시 제표명 직류전원장치 도밀명:CTC-SS210 최저소님 표옮기준 정격입력AC 22oV~,6OHZ,034 만족세품 정격리DC 5V 21A 인Y번호SU1C639-1C005 MSIP-REN-IGg-CTC-SS240 제조사 SHENZHEN RUIYU TECHNOLOGY CO,T 제조국 :CANA 제조년월: 2018 01 NS연락처:032-683-7135
+2024-12-31 13:00:45,356 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:00:48,175 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:00:48,175 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:00:48,175 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:00:48,187 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:00:48,187 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:00:48,188 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:00:48,188 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:00:48,193 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:00:49,842 - INFO - 한글+영어 인식 결과: [BE 지금은라데오시대 대한의로사회복지사협회 사항의 열매 사S7지3등모39 @nuclleor 전품딩으전지 전지의종류 리툼이온2차전지 모델명 iGPB-HOT3 전지형식.2ICR18/65-2 정격입터-DE5V2A 정격용량하5OoOmAh 정격중력:DE5V2A -조국가:CHINA 수입체하 (주유영터유니키이선 제조년일2024.11 제조자 SHENHENHONGYUTAEIECIRONICCO,UID 'AS선E-070-4323-1574 httpl[wwwanyclearcolkr
+2024-12-31 13:00:49,842 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:00:49,849 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:00:49,849 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:00:49,849 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:00:49,849 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:00:49,855 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:00:52,147 - INFO - 전압과 전류 추출 중
+2024-12-31 13:00:52,150 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:00:52,150 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:00:52,150 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:00:52,151 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:00:52,151 - DEBUG - 추출된 전류값: 21.0A
+2024-12-31 13:00:52,151 - INFO - 추출된 값 - 전압: 5.0V, 전류: 21.0A
+2024-12-31 13:00:52,151 - INFO - 전압과 전류 추출 중
+2024-12-31 13:00:52,154 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:00:52,155 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:00:52,155 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:00:52,155 - INFO - 추출된 값 - 전압: NoneV, 전류: 2.0A
+2024-12-31 13:00:52,156 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:00:52,160 - INFO - 충전기: 5.0V, 21.0A
+2024-12-31 13:00:52,160 - INFO - 기기: NoneV, 2.0A
+2024-12-31 13:00:52,160 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:01:40,114 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:01:40,114 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:01:42,072 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:01:44,035 - INFO - OCR 모델 로드 완료
+2024-12-31 13:01:44,046 - ERROR - 프로그램 실행 중 오류 발생: cannot access local variable 'adjusted' where it is not associated with a value
+2024-12-31 13:01:44,046 - ERROR - 상세 에러:
+Traceback (most recent call last):
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 271, in main
+    preprocess_image("charger.jpg", "charger2.jpg")
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 183, in preprocess_image
+    gray = cv2.cvtColor(adjusted, cv2.COLOR_BGR2GRAY)
+                        ^^^^^^^^
+UnboundLocalError: cannot access local variable 'adjusted' where it is not associated with a value
+2024-12-31 13:02:30,787 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:02:30,788 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:02:32,677 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:02:34,662 - INFO - OCR 모델 로드 완료
+2024-12-31 13:02:35,428 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:02:35,428 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:02:35,428 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:02:38,528 - INFO - 한글+영어 인식 결과: 전기용품 안전관리법어 의한 품질표시 제표명 직류전원장치 도밀명:CTC-SS210 최저소님 표옮기준 정격입력AC 220V~,60HZ,034 만족세품 정격로리DC 5V 21A 인Y변호SU10639-16005 NSIP-REN_tGg-CTC-SS2AU 제조사 SHENZHEN RUIYU TECHNOLOGY CO 제조국 :C ANA 제조년월: 2010 01 NS연락처:032-583-7135
+2024-12-31 13:02:38,528 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:02:41,637 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:02:41,637 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:02:41,638 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:02:41,649 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:02:41,650 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:02:41,650 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:02:41,650 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:02:41,655 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:02:43,575 - INFO - 한글+영어 인식 결과: [D 지금은라다오시대 대한의로사회복지사협회 사랑의열매 사S7N38모39 @nuclleor 전품딩으전지 전지의종류 리툼롭이온2차전지 모델명-iGPB-HOT3 전지형식.2CR18/65-2 정취입터-DE5V2A 정격용량하 5OoOmAh 정격중력:DE5VZA 전조국가:CHIA 수입체하 (주유영터유니키이선 제조년원:2024.11 제조자 SHEHENHONGYUTAEIECIRONCCO,UID 'AVS선E-070-4323-1574 httpllnwwanyclearcolkr
+2024-12-31 13:02:43,576 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:02:43,581 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:02:43,582 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:02:43,582 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:02:43,582 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:02:43,587 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:02:46,144 - INFO - 전압과 전류 추출 중
+2024-12-31 13:02:46,146 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:02:46,147 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:02:46,147 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:02:46,147 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:02:46,148 - DEBUG - 추출된 전류값: 21.0A
+2024-12-31 13:02:46,148 - INFO - 추출된 값 - 전압: 5.0V, 전류: 21.0A
+2024-12-31 13:02:46,148 - INFO - 전압과 전류 추출 중
+2024-12-31 13:02:46,151 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:02:46,153 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:02:46,153 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:02:46,158 - INFO - 충전기: 5.0V, 21.0A
+2024-12-31 13:02:46,158 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:02:46,158 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:03:20,875 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:03:20,876 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:03:22,769 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:03:24,711 - INFO - OCR 모델 로드 완료
+2024-12-31 13:03:25,468 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:03:25,469 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:03:25,469 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:03:28,440 - INFO - 한글+영어 인식 결과:  - 용품 안전관크 법어 으호 품잘표스 ` 제균명 직로전원장차 도물명:CTC-SS2'0 초저산 t 정격입력 AC 220V~,6OH2,0.34 IG '만족저중 정격m리DC 5V525 인공면호 SJ'CC3S 'CCC5 VS;-;''-'G9-CC-SS2AC 세즈 SaENZAEN RUrYU TECHNOOG' CC  저조국 :<: ; (4 R조년월: 2C10 0! 1 S연락 *:: (32-593-;'35
+2024-12-31 13:03:28,441 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:03:31,552 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:03:31,552 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:03:31,553 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:03:31,565 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:03:31,566 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:03:31,566 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:03:31,566 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:03:31,571 - DEBUG - STREAM b'IDAT' 328201 4
+2024-12-31 13:03:31,571 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:03:33,398 - INFO - 한글+영어 인식 결과: [미E 제롭음라데오지대 대한의로사회복지사현회 사항의혈매 사S TN38모39 @nuclleor 전품-으전 전지의종류 리툼이온2차전지 모퉁명-iGPOHO3 전지형식.2CRi8/65-2 정취입터-DE5V2A 정격용량-5OoOmAh 정격롭터:DESVZA 전조국가:CHIIA 수입체하 (주유영터묘커이선 '제조년원:202471 제조자 SHEVHENHONGSYUTNEIEGIRONCCO,UID AVS선E-070-4323-1574 http llnxwanyclearcolkr
+2024-12-31 13:03:33,399 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:03:33,405 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:03:33,405 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:03:33,406 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:03:33,406 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:03:33,411 - DEBUG - STREAM b'IDAT' 328201 4
+2024-12-31 13:03:33,412 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:03:35,558 - INFO - 전압과 전류 추출 중
+2024-12-31 13:03:35,560 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:03:35,561 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:03:35,561 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:03:35,561 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:03:35,561 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:03:35,561 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 13:03:35,562 - INFO - 전압과 전류 추출 중
+2024-12-31 13:03:35,564 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:03:35,566 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:03:35,566 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:03:35,571 - INFO - 충전기: 5.0V, 2.0A
+2024-12-31 13:03:35,571 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:03:35,572 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:03:54,759 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:03:54,760 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:03:56,655 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:03:58,644 - INFO - OCR 모델 로드 완료
+2024-12-31 13:03:59,430 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:03:59,431 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:03:59,431 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:04:02,327 - INFO - 한글+영어 인식 결과: 전기용돈 안전관리 법어 의협 품질표시 제표명 직름전원장치 도명:CTC-SS2'0 최저소길 정격입력 AC 220V~,6OHZ,034 'C #혹재중 정격물리DC 5V216 인공번호:SJ1CG3g 'GOCS NSIP-REV_'GS-CTC-SS2AU 제즈사 SHENZHEN RUIYU TECHNOLOGY CO 제조국 :C ANA 제조년월: 2010 0! AS연락처: 032-683-1135
+2024-12-31 13:04:02,327 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:04:05,290 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:04:05,290 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:04:05,290 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:04:05,303 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:04:05,304 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:04:05,304 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:04:05,305 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:04:05,310 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:04:07,048 - INFO - 한글+영어 인식 결과: [DE 지금은라다오지대 대한의로사회복지사협회 사항의열매 사S TN38모39 @nuclleor 전품딩으전 전지의종류 리롭이온2차전지 모든명-iGPO-HOI3 전지형식.2CR18/65-2 정취입터-DE5V2A 정격용량하 5OoOmAh 정격중력 DE5VZA 전조국가:CHIIA 수입체. (주유영터유니커이선 제조년원:2024.11 제조자 SHEHENHONGSYUTAEIECIRONICCO,UID AS선E-070-4323-1574 httpllnwwanyclearcolkr
+2024-12-31 13:04:07,048 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:04:07,055 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:04:07,055 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:04:07,056 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:04:07,056 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:04:07,061 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:04:09,233 - INFO - 전압과 전류 추출 중
+2024-12-31 13:04:09,236 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:04:09,236 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:04:09,236 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:04:09,237 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:04:09,237 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:04:09,237 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 13:04:09,237 - INFO - 전압과 전류 추출 중
+2024-12-31 13:04:09,240 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:04:09,242 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:04:09,242 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:04:09,246 - INFO - 충전기: 5.0V, 2.0A
+2024-12-31 13:04:09,246 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:04:09,246 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:06:30,675 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:06:30,676 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:06:32,591 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:06:34,535 - INFO - OCR 모델 로드 완료
+2024-12-31 13:06:35,267 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:06:35,267 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:06:35,267 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:06:37,442 - INFO - 한글+영어 인식 결과: [:
+2024-12-31 13:06:37,442 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:06:39,667 - INFO - 중국어+영어 인식 결과: [:
+2024-12-31 13:06:39,667 - INFO - 최종 결합된 텍스트: [: [:
+2024-12-31 13:06:39,668 - INFO - 충전기 텍스트: [: [:
+2024-12-31 13:06:39,668 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:06:39,669 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:06:39,669 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:06:39,678 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:06:39,678 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:06:39,678 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:06:39,678 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:06:39,680 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:06:41,861 - INFO - 한글+영어 인식 결과: F7Ei-; 제흙-끝로l터g '대 '템;y도-:  회치히' ;ui로; '똑@ 오진: {inj리iszyf ':? :::' 보집 교!:_: ,: 둘#_isye ? 3필! 호; :;: E:;: :;:"i;=' #비도;: 철표? gi ?-? 꿀::;:"이1 '?'"?' 기2:" 힘eW:;:j 3"'in''i; ;: ;: .ii'?'iy/:: '초터;; '주i''1:. :민'경 iL3'33: {53!u:대;합 진도:i기 '스i_;"' Jt츠; '중: ='모;애'};;'y;;'5iiyii바hi"Ei;:G'''E'giiln?" '{소신로t jy;y- E:E?it5is ltijpdli-EiHr" i;;":-
+2024-12-31 13:06:41,862 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:06:41,866 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:06:41,866 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:06:41,866 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:06:41,866 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:06:41,869 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:06:44,063 - INFO - 전압과 전류 추출 중
+2024-12-31 13:06:44,064 - DEBUG - 분석할 텍스트: [: [:
+2024-12-31 13:06:44,064 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:06:44,066 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:06:44,066 - INFO - 전압과 전류 추출 중
+2024-12-31 13:06:44,069 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:06:44,076 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:06:44,077 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:06:44,077 - INFO - 충전기 원본 텍스트: [: [:
+2024-12-31 13:06:44,080 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:06:44,080 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:06:44,080 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:07:04,737 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:07:04,737 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:07:06,631 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:07:08,571 - INFO - OCR 모델 로드 완료
+2024-12-31 13:07:09,305 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:07:09,306 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:07:09,306 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:07:12,459 - INFO - 한글+영어 인식 결과: 숫{ "관크'U0i 으i 톤출등 {': 근: 집로전오~ =:만; C'C-S5?'0 채_' E 꿈 ;철말 팀,A 2'2011'~,6)+7.(31, 만주*' 종-조: _3C 3 2 3  x S'!(선59 C(: ''9: .;_;' GS; SSA(' ;:~ S ;_';if' illli+U::?:AC:U8" SC, 2'   군 2 : { " : } : $4'?^ {*J7 22" ":
+2024-12-31 13:07:12,460 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:07:15,571 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:07:15,571 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:07:15,571 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:07:15,580 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:07:15,581 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:07:15,581 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:07:15,581 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:07:15,584 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:07:18,055 - INFO - 한글+영어 인식 결과: [y로체쁨음수데오쓰때 대웬의로자회t-사업p '사항--봉 u J지하33문의 @Intuglle@i ~전품임-진지] 센진의흥류드리롬이온고-B재 모문명:G8FOB 진진행심심리Q 865고 핑계입리주CEGYPDA '청례용량하GO0OmAh 징계릭리-DEGWD -진조국카드@IA 숙퍼체등(~#양국하터p 젠조여립다20저i '진조자-SEENOGWUtNEIEGIRONIECODD AySUEJ307043231575 RaPllunwanydearcoltr 
+2024-12-31 13:07:18,056 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:07:18,060 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:07:18,060 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:07:18,060 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:07:18,060 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:07:18,063 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:07:20,376 - INFO - 전압과 전류 추출 중
+2024-12-31 13:07:20,378 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:07:20,389 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:07:20,389 - INFO - 전압과 전류 추출 중
+2024-12-31 13:07:20,391 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:07:20,405 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:07:20,405 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:07:20,410 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:07:20,410 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:07:20,410 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:10:44,785 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:10:44,786 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:10:46,685 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:10:48,644 - INFO - OCR 모델 로드 완료
+2024-12-31 13:10:49,374 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:10:49,375 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:10:49,375 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:10:52,396 - INFO - 한글+영어 인식 결과: 전기용궁 인전관리V에 의인 묻짐묘시 지운명 최류전원장히 도입명:CTC-SS2 10 이저스다 C ; 기즌 정격입리 AC 220V~,6OHZ,03/ 민주제a 정국3리DC 3V 도리소 인하하 오:SUGG-IGOC KSIP-REM-163-CTC-SS2A0 제i조스; :SHENZHEN RUIYU TESHNOLOGY CO, 고조로 :C-AINA X조난 &: 2016 0} KS연순서;032-583-1135
+2024-12-31 13:10:52,397 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:10:55,583 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:10:55,584 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:10:55,584 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:10:55,594 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:10:55,595 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:10:55,595 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:10:55,595 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:10:55,598 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:10:57,871 - INFO - 한글+영어 인식 결과: [모로체금음료데오쓰속 대웬의로자회t사-p { "'N항관-때 u J*389금p @InLglleoi "진품민켜젠짓 -진치의흥류드리롬이온고언 '모완명-iGBEOa  진형신심리-865고 "징례입리하DEGVQ 정기용량등G@OOmAh 징계롭력-DEG찌 젠조국카하CAI 순입체-(뉘붐영터퀴aO 젠조년립하2어숙i '진조자-SrEEMONGDUhAEIEGRONIECOfiD NSE.l300-4323-1573 Rrtplumanydeacolkrr _
+2024-12-31 13:10:57,872 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:10:57,875 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:10:57,876 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:10:57,876 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:10:57,876 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:10:57,878 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:11:00,068 - INFO - 전압과 전류 추출 중
+2024-12-31 13:11:00,070 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:11:00,070 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:11:00,071 - DEBUG - 추출된 전압값: 3.0V
+2024-12-31 13:11:00,071 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:11:00,071 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:11:00,071 - INFO - 추출된 값 - 전압: 3.0V, 전류: 2.0A
+2024-12-31 13:11:00,071 - INFO - 전압과 전류 추출 중
+2024-12-31 13:11:00,074 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:11:00,090 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:11:00,091 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:11:00,096 - INFO - 충전기: 3.0V, 2.0A
+2024-12-31 13:11:00,096 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:11:00,096 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:11:35,830 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:11:35,831 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:11:37,750 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:11:39,689 - INFO - OCR 모델 로드 완료
+2024-12-31 13:11:40,434 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:11:40,434 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:11:40,435 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:11:43,269 - INFO - 한글+영어 인식 결과: 전기용몽 인전관리입애 의안 기심표시 지붕영:리류전원장치 도움명;CTC-SS210 외저소님 E6 기근 정격입런AC 220V~,6DHZ,03A 민a제료 프3O리D5V:21A 인혼면오:SUI030-160C5 KSIP-REM-I63 -CTC-SS2A0 제조사:SEN7EN RUIYU TECHNOLOGY CO,,27i 진조국 :CHIN K조년{: 2016 0} NS안다서:032-503-1135
+2024-12-31 13:11:43,270 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:11:46,193 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:11:46,194 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:11:46,194 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:11:46,203 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:11:46,204 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:11:46,204 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:11:46,204 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:11:46,207 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:11:48,268 - INFO - 한글+영어 인식 결과: [B 체몸음료l오지- 대현의로자회록-사협p 쓰호워훨j @Iny.le@i 전품히하진 진진의흥류-리롬이혼고전재 모델명스GPOROO3 진진하신심리@8652 형계입렉하DEG예 청려8량-G@OmAh 핑계롭리-DEGVD 젠조국카스C 순입체드(준유영E묘늄하 렌조권립m204i7 진조잔-SEHENHONGDhAEIEGIONIECO,DIDD PyS.3070-4323-1510 Rtplumandeacolk
+2024-12-31 13:11:48,269 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:11:48,272 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:11:48,272 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:11:48,273 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:11:48,273 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:11:48,276 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:11:50,439 - INFO - 전압과 전류 추출 중
+2024-12-31 13:11:50,442 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:11:50,444 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:11:50,445 - INFO - 전압과 전류 추출 중
+2024-12-31 13:11:50,448 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:11:50,455 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:11:50,455 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:11:50,459 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:11:50,460 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:11:50,460 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:12:12,882 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:12:12,882 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:12:14,824 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:12:16,765 - INFO - OCR 모델 로드 완료
+2024-12-31 13:12:17,510 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:12:17,510 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:12:17,511 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:12:20,419 - INFO - 한글+영어 인식 결과: 전기용장 안전관리V이 의인 심요시 전중명:직류전인장지 모E영:CTC-SS210 최저소비 26기모 정'입터:AC 220V~,6OHz,OJA드 민구체 jE0회DS:2A 인동면호:S009-I60G5 MSIP-REM-IGS CTC-SS2AO 제조사:SGVEN RUIYU TECHNOLOGY CO.,LmD 고조국:CINA r조K{:2016.01 NS언다서:032 603-1135
+2024-12-31 13:12:20,420 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:12:23,538 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:12:23,538 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:12:23,538 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:12:23,547 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:12:23,547 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:12:23,547 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:12:23,547 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:12:23,550 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:12:25,627 - INFO - 한글+영어 인식 결과: [B페움음라-오키때 대현의로사회록사협p 쓰활월훨- @Iny.lle@l 진품히둥진진 전진의종옮-리롬이온고-전제 모델명-iGPOPOI3 진형신길리9l865고 칭계입럽:CEG괴 청계용히등G@Omxh} 핑계롭렉:CCGD 젠조국가-CAIA 수입체-(싫문영E뷰짚키어B 제즈연입i202417 지즈잔-_ SHENYENRHONGVOtAEIEGRONICCODID {YSE.-0704323-1570 Rrtplunanydearcolkr
+2024-12-31 13:12:25,628 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:12:25,631 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:12:25,631 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:12:25,632 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:12:25,632 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:12:25,635 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:12:27,800 - INFO - 전압과 전류 추출 중
+2024-12-31 13:12:27,802 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:12:27,804 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:12:27,804 - INFO - 전압과 전류 추출 중
+2024-12-31 13:12:27,807 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:12:27,820 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:12:27,821 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:12:27,825 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:12:27,825 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:12:27,825 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:13:20,321 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:13:20,321 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:13:22,219 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:13:24,166 - INFO - OCR 모델 로드 완료
+2024-12-31 13:13:24,917 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:13:24,918 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:13:24,918 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:13:28,118 - INFO - 한글+영어 인식 결과: 현기33 안전관리Y0] 의안 f 진표시 제뚜현:리유전인장히 도[g:CTC-SS2I0 쇠저소님 오6기오 정리입다:AC 220V~,GOHZ,03, - 민뒤터5 B돌OaDC 기:21 인5하오:S0I033 -IG고Gs AfSIP--;드y-여 CTC-SS240 제조사:GG3,B3 FUiU IEHiCLOGI CC.,:T 도조국:CHA 제조년다: 20! 0] NSQ다서{032 G03-1135
+2024-12-31 13:13:28,119 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:13:31,131 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:13:31,131 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:13:31,132 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:13:31,144 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:13:31,144 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:13:31,144 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:13:31,145 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:13:31,147 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:13:33,212 - INFO - 한글+영어 인식 결과: 드드; 끼흙플라-로   [) 흰질보-회록제  회 Nr@-3 {i3:73?:-33] @nniygleoi? 표율번 렌? 균청데:3, 린_입로 ?창나 도;_E:;.:도a!극iya) 원회림넷   한2Iit하ai둘신 접: 렌m {p--,i 훔티하수 = u'-Xjinrl;' 헬?간) 대:Gy_짓 편소국 등 @#ikf 오발히 (대구,구중화다니교 최조{숙고기 r식i7 적 S;Eu; 초 FDXSi7iAEll-Etic' E@@ l"  4VSELi 00531513 Iiimpyl사niurs-i; ai-gi i
+2024-12-31 13:13:33,212 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:13:33,216 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:13:33,216 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:13:33,216 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:13:33,216 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:13:33,219 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:13:35,452 - INFO - 전압과 전류 추출 중
+2024-12-31 13:13:35,455 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:13:35,455 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:13:35,455 - DEBUG - 추출된 전압값: 220.0V
+2024-12-31 13:13:35,467 - INFO - 추출된 값 - 전압: 220.0V, 전류: NoneA
+2024-12-31 13:13:35,467 - INFO - 전압과 전류 추출 중
+2024-12-31 13:13:35,470 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:13:35,476 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:13:35,476 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:13:35,481 - INFO - 충전기: 220.0V, NoneA
+2024-12-31 13:13:35,481 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:13:35,481 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:14:24,447 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:14:24,447 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:14:26,333 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:14:28,286 - INFO - OCR 모델 로드 완료
+2024-12-31 13:14:28,531 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:14:28,532 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:14:28,532 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:14:31,395 - INFO - 한글+영어 인식 결과: 전기용품 안전관리롭예 의혼 품질표시 제표명직류전원장치 도필명:CTC-SS2t0 짚저소내 공줄기준; 정격입력:AC 220V~,6OH{z,0.34 진족제품 꿈격m뛰DE 2i쇼 인동번호 SU0630-7G005 MSIP-REMM-iGg-CTC-SS2,C 제조사 CHENTHEN RUIYU TECHNOLOGY CC,,_T 제조국:C YNA 제조년c: 2018 01 AS연락처:032-683-1135
+2024-12-31 13:14:31,395 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:14:34,412 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:14:34,412 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:14:34,412 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:14:34,427 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:14:34,427 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:14:34,427 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:14:34,428 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:14:34,432 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:14:36,560 - INFO - 한글+영어 인식 결과: mDB 지금은리자오내대 대회의로사회복지사협회 사랑임-매 사프물지용동모므프 @nnuclleor '채품--등최치 천지의용류등리튼이온고자천치 @델명기GPBHO3 천치형식-2icRil8/65-2 '정취입트-DE5ZA 창격용량E S00OmAh 챙계록렉gDEGVDA '체조극가 만CNA 수입치임쥐운영터유의키이선 @쥐조년월s202471 '체조자gSHENIHEVPONGUiAjEIEGiRONC@@HEliD 'AS 센E30704323-1574 hhtp|nwanyglearcolkr
+2024-12-31 13:14:36,560 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:14:36,566 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:14:36,566 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:14:36,567 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:14:36,567 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:14:36,572 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:14:38,778 - INFO - 전압과 전류 추출 중
+2024-12-31 13:14:38,780 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:14:38,783 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:14:38,783 - INFO - 전압과 전류 추출 중
+2024-12-31 13:14:38,785 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:14:38,807 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:14:38,808 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:14:38,813 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:14:38,813 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:14:38,813 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:16:20,646 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:16:20,647 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:16:22,535 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:16:24,485 - INFO - OCR 모델 로드 완료
+2024-12-31 13:16:24,728 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:16:24,728 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:16:24,728 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:16:27,577 - INFO - 한글+영어 인식 결과: 전기용품 안전관리롭예 의한 품질표시 제표명:직름전원장치 도필명:CTC-SS210 짚저스다 표줄기준; 정격입력:AC 220V~,6OHz,O34 판족제품 DCEV도21소 인혼면호SU0G39-1G0C5 [SiP-REfA-iGg-CTC-SS2AU 제조사:S{ENZHEN RUIYU TECHiOLOGY CO,LT 제조국:C;GNA 제조년월: 2018.01 NS연락처:032-683-1135
+2024-12-31 13:16:27,577 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:16:30,583 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:16:30,583 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:16:30,583 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:16:30,597 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:16:30,597 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:16:30,598 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:16:30,598 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:16:30,603 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:16:32,553 - INFO - 한글+영어 인식 결과: [미 지금은리태오지대 대인의로사회복지사현화 사항- -매  시프록지용동모므프 @nuclleor '채품-등옷짓 전지의종류 등 리툼이용고자전체 모델명-iGPB-HOI3 전지형쓰-리IcRi8/65-2 '정취입력하DE52A '청격용량드SOOOmAh =계출렉하DE5V2A "체조국가만CHIA '수입체피쥐유영터뷰니테이선 ~제즈현원하202477 '체조자-SHENHEINIHONGYUTAjEIEGIRROCCOHIifD AS센터30702323-1574 httplwwanyglearcolkr
+2024-12-31 13:16:32,553 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:16:32,560 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:16:32,560 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:16:32,561 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:16:32,561 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:16:32,567 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:16:34,755 - INFO - 전압과 전류 추출 중
+2024-12-31 13:16:34,757 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:16:34,757 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:16:34,757 - DEBUG - 추출된 전압값: 220.0V
+2024-12-31 13:16:34,758 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:16:34,758 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:16:34,758 - INFO - 추출된 값 - 전압: 220.0V, 전류: 2.0A
+2024-12-31 13:16:34,759 - INFO - 전압과 전류 추출 중
+2024-12-31 13:16:34,761 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:16:34,763 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:16:34,763 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:16:34,768 - INFO - 충전기: 220.0V, 2.0A
+2024-12-31 13:16:34,768 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:16:34,768 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:17:43,435 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:17:43,435 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:17:45,325 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:17:47,257 - INFO - OCR 모델 로드 완료
+2024-12-31 13:17:47,483 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:17:47,483 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:17:47,484 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:17:50,566 - INFO - 한글+영어 인식 결과: 전기 [용돌 안전관리 굽대 의문 품질표시 제출명:직롭전원장치 도별명: CTC-SS2:0 최저소터' 표67 표 정격입력:AC 220V~,GDHz,0.3A 한쪽품: 잠격돌렉DC5VI24스 인손면로:SJ70G39-{CUC5 {vSiP-BEf-'G9-CTC-SS2AL 제조 :SHENZHEN RUIYU TECHNOLOGY COi?} 세조국 :C; -4 제조년월: 2013 02 AS면락저: 032-683-{135
+2024-12-31 13:17:50,567 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:17:53,644 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:17:53,645 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:17:53,645 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:17:53,658 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:17:53,658 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:17:53,658 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:17:53,659 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:17:53,664 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:17:55,658 - INFO - 한글+영어 인식 결과: [B 제롭음리-오지대 때회의로지회복지사협p 사랑관혈멘 사털T국지콤산모낙의 @Inuclleor ~전품렉등증켓 전지의종류문린-이온-지전지 모델명로IGPBRO3 전진형죄스리cRi865 2 '정취입트jaDESV2A '정격용량EG@OOm고h '핑직롭렉움DEGV러 ~센조국기gCAIA 수입체하준훈든국국이신 ~젠조년일m202477 ~최조자gSHLENHEENPONSVUiAjEIEGRONCCOYEiD NS전디l3070#323-1575 haplilunwijanydlearcolkr
+2024-12-31 13:17:55,659 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:17:55,666 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:17:55,666 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:17:55,666 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:17:55,666 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:17:55,672 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:17:58,015 - INFO - 전압과 전류 추출 중
+2024-12-31 13:17:58,017 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:17:58,018 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:17:58,018 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:17:58,018 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:17:58,018 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:17:58,019 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 13:17:58,019 - INFO - 전압과 전류 추출 중
+2024-12-31 13:17:58,021 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:17:58,030 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:17:58,030 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:17:58,035 - INFO - 충전기: 5.0V, 2.0A
+2024-12-31 13:17:58,035 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:17:58,035 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:21:24,088 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:21:24,088 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:21:25,984 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:21:27,942 - INFO - OCR 모델 로드 완료
+2024-12-31 13:21:27,982 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:21:27,983 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:21:27,983 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:21:31,103 - INFO - 한글+영어 인식 결과: 전? : 동돈 안전관크: 벌어: 으문 n표표 } ` 저'표명: 직물전원장옷: 도는명: CTC-SS2:0 3: 저소 -: 초표" : 돌 정즈입력:AC 2201 ~,G0Hz,0.34 깊쪽; {i 국: 정mmZD5 그2 ' 인준면토:S;: GC3g C(iC5 {yS:?-BER'-'G9-C;C-SS2AC 조(: :S:-E;7P{ER Riiyu TEC:NOiCG' CC 저:조국 :<소' 4 F조오 ;: : J2;{ 0! 5 'S연락'듯:: (32-683-;'35
+2024-12-31 13:21:31,103 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:21:34,335 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:21:34,335 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:21:34,335 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:21:34,348 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:21:34,349 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:21:34,349 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:21:34,349 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:21:34,354 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:21:36,451 - INFO - 한글+영어 인식 결과: [D미O제버음리-오_대 @회의코지회목-사협회 사항관혈멘 사ST {시콤모문미 @nniucleor ~전품렉등전짓 전지의종류똑l톱이용증지전체 모델D- iGPO-HO3 '전지형씌-mRi8/652 '집직입터jgDE5HA '창격용량tG@이mA고 '핑)롭렉-DEGV려교 '진조국기gCAIIIA 순입치하볶든로E이신 ~센조연일하202471 ~진조-S:EN:ENIROGIUAEIEGmRONCCOJBlD '[S전El규0703323-7575 '[hiapllux오yanytelealycolkr
+2024-12-31 13:21:36,451 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:21:36,458 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:21:36,458 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:21:36,458 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:21:36,458 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:21:36,464 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:21:38,627 - INFO - 전압과 전류 추출 중
+2024-12-31 13:21:38,630 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:21:38,639 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:21:38,639 - INFO - 전압과 전류 추출 중
+2024-12-31 13:21:38,642 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:21:38,648 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:21:38,648 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:21:38,652 - INFO - 충전기: NoneV, NoneA
+2024-12-31 13:21:38,653 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:21:38,653 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:23:10,720 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:23:10,721 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:23:12,629 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:23:14,607 - INFO - OCR 모델 로드 완료
+2024-12-31 13:23:14,652 - INFO - 충전기 이미지 처리 중...
+2024-12-31 13:23:14,652 - INFO - 이미지 처리 중: charger2.jpg
+2024-12-31 13:23:14,652 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:23:17,506 - INFO - 한글+영어 인식 결과: 전기용돈 안전관리벌어 의한 물질표시 제출명:직름전원장치 도밀명:CTC-SS210 최저소하; 표옮기준 정격입력:AC 220V~,GOHz,0,3A 판족세품 카돌렉DC5V32소 인동편호:SUf0G39-{G0C5 [vSiP-REfA-iGg-CTC-SS2AU 제조사:S:EAZHEN RUIYU TECHivOLOGY CO. 세조국 :Ci ANA 제조년월: 2013.02 AS:락처:032-683-7135 ',LT}
+2024-12-31 13:23:17,506 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:23:21,020 - INFO - 기기 이미지 처리 중...
+2024-12-31 13:23:21,020 - INFO - 이미지 처리 중: ccc2.png
+2024-12-31 13:23:21,020 - INFO - 한글+영어 OCR 처리 시작
+2024-12-31 13:23:21,034 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:23:21,034 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:23:21,034 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:23:21,035 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:23:21,040 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:23:23,158 - INFO - 한글+영어 인식 결과: [, 제롭음리트오재대 때회의로사회롭지사협p 사랑관혈멘 사털T국지콤요모낙의 @Inuclleor "전품렉운증짓 전지의종류문린-이용-지전지 모립히eGPB--0u3 전진형죄스리cRi865 2 '정취입터jaDE5HA '정격S량EG@@Om고h '핑직롭렉움DEGVD 오센조국기gCAIIA '순입체요 ,훈연국묘국이신 ~례조년일202477 ~최조자gSHLEHENPONSVUAjEIEGRONCCOHElD NS전디l3070#323-1575 hiplilunwjanydlearcolkr
+2024-12-31 13:23:23,158 - INFO - 중국어+영어 OCR 처리 시작
+2024-12-31 13:23:23,165 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:23:23,165 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:23:23,165 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-31 13:23:23,166 - DEBUG - STREAM b'IDAT' 41 8192
+2024-12-31 13:23:23,171 - DEBUG - Error closing: Operation on closed image
+2024-12-31 13:23:25,476 - INFO - 전압과 전류 추출 중
+2024-12-31 13:23:25,478 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:23:25,478 - DEBUG - 매칭된 전압 패턴: (DC).*?(\d+\.?\d*)\s*V
+2024-12-31 13:23:25,479 - DEBUG - 추출된 전압값: 5.0V
+2024-12-31 13:23:25,479 - DEBUG - 매칭된 전류 패턴: (DC).*?(\d+\.?\d*)\s*(mA|A)
+2024-12-31 13:23:25,479 - DEBUG - 추출된 전류값: 2.0A
+2024-12-31 13:23:25,479 - INFO - 추출된 값 - 전압: 5.0V, 전류: 2.0A
+2024-12-31 13:23:25,480 - INFO - 전압과 전류 추출 중
+2024-12-31 13:23:25,482 - DEBUG - DC 값 우선 탐색 시작
+2024-12-31 13:23:25,491 - INFO - 추출된 값 - 전압: NoneV, 전류: NoneA
+2024-12-31 13:23:25,491 - INFO - 
+=== 분석 결과 ===
+2024-12-31 13:23:25,495 - INFO - 충전기: 5.0V, 2.0A
+2024-12-31 13:23:25,496 - INFO - 기기: NoneV, NoneA
+2024-12-31 13:23:25,496 - INFO - 호환성: 값 추출 실패
+2024-12-31 13:25:13,033 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:25:13,033 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:25:14,932 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:25:16,881 - INFO - OCR 모델 로드 완료
+2024-12-31 13:25:16,899 - ERROR - 프로그램 실행 중 오류 발생: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-31 13:25:16,899 - ERROR - 상세 에러:
+Traceback (most recent call last):
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 210, in main
+    preprocess_image("charger.jpg", "charger2.jpg")
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 171, in preprocess_image
+    if meanVal < 80:
+       ^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-31 13:25:41,792 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:25:41,792 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:25:43,713 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:25:45,678 - INFO - OCR 모델 로드 완료
+2024-12-31 13:25:45,694 - ERROR - 프로그램 실행 중 오류 발생: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-31 13:25:45,694 - ERROR - 상세 에러:
+Traceback (most recent call last):
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 209, in main
+    preprocess_image("charger.jpg", "charger2.jpg")
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 170, in preprocess_image
+    if meanVal < 80:
+       ^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-31 13:26:00,838 - INFO - TextExtractor 초기화 중...
+2024-12-31 13:26:00,839 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:26:02,730 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2024-12-31 13:26:04,666 - INFO - OCR 모델 로드 완료
+2024-12-31 13:26:04,679 - ERROR - 프로그램 실행 중 오류 발생: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-12-31 13:26:04,680 - ERROR - 상세 에러:
+Traceback (most recent call last):
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 208, in main
+    preprocess_image("charger.jpg", "charger2.jpg")
+  File "C:\Users\201\dev\miniproj\ocrtest2.py", line 169, in preprocess_image
+    if meanVal < 80:
+       ^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
